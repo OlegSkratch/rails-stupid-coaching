@@ -2,8 +2,8 @@ a {
   color: rgb(162, 160, 160);
   &:hover {
     color: black;
-  }
-}
+  };
+};
 
 h2 {
   color: rgb(103, 172, 0);
@@ -17,7 +17,7 @@ form {
   &:hover {
     opacity: 0.7;
   };
-}
+};
 
 body {
   background-image: url("https://condorperformance.com/wp-content/uploads/2019/02/coachWEB.jpg");
